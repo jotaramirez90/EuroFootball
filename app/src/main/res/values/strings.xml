@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">EuroFootball</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_match">Match</string>
+    <string name="action_share">Share</string>
+
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Label for metric option in temperature unit preference [CHAR LIMIT=25] -->
+    <string name="pref_label_bbva">Liga BBVA</string>
+    <string name="pref_label_adelante">Liga Adelante</string>
+    <string name="pref_label_seriea">Serie A</string>
+    <string name="pref_label_bundesliga">Bundesliga</string>
+    <string name="pref_label_eredivisie">Eredivisie</string>
+    <string name="pref_label_premier">Premier League</string>
+    <string name="pref_label_ligue1">Ligue 1</string>
+
+
+    <!-- LEAGUES -->
+    <string name="pref_league_label">Leagues</string>
+    <string name="pref_league_key" translatable="false">leagues</string>
+    <string name="pref_league_default" translatable="false">1</string>
+    <string name="pref_league_adelante" translatable="false">2</string>
+    <string name="pref_league_seriea" translatable="false">7</string>
+    <string name="pref_league_bundesliga" translatable="false">8</string>
+    <string name="pref_league_eredivisie" translatable="false">9</string>
+    <string name="pref_league_premier" translatable="false">10</string>
+    <string name="pref_league_ligue1" translatable="false">16</string>
+
+
+    <string name="sync_account_type">europeanfootball.jota.com</string>
+    <string name="content_authority">com.android.jota.europeanfootball</string>
+    
+    <string name="title_fragment_detail_no_match">Select a match to see more details</string>
+
+</resources>

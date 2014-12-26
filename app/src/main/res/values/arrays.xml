@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_league_options">
+        <item>@string/pref_label_bbva</item>
+        <item>@string/pref_label_adelante</item>
+        <item>@string/pref_label_seriea</item>
+        <item>@string/pref_label_bundesliga</item>
+        <item>@string/pref_label_eredivisie</item>
+        <item>@string/pref_label_premier</item>
+        <item>@string/pref_label_ligue1</item>
+    </string-array>
+
+    <string-array name="pref_league_values">
+        <item>@string/pref_league_default</item>
+        <item>@string/pref_league_adelante</item>
+        <item>@string/pref_league_seriea</item>
+        <item>@string/pref_league_bundesliga</item>
+        <item>@string/pref_league_eredivisie</item>
+        <item>@string/pref_league_premier</item>
+        <item>@string/pref_league_ligue1</item>
+    </string-array>
+</resources>

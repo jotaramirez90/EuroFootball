@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="actionBarStyle">@style/ActionBar.Solid.EurofooballAB</item>
+    </style>
+
+    <style name="ActionBar.Solid.EurofooballAB" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="background">@color/eurofooball_green</item>
+    </style>
+
+    <style name="EurofootballTheme" parent="AppTheme">
+        <item name="actionBarStyle">@style/ActionBar.Solid.Eurofootball.NoTitle</item>
+    </style>
+
+    <style name="ActionBar.Solid.Eurofootball.NoTitle" parent="@style/ActionBar.Solid.EurofooballAB">
+        <item name="displayOptions">useLogo|showHome|showTitle</item>
+        <item name="logo">@drawable/ic_ab</item>
+        <item name="android:text">@string/app_name</item>
+    </style>
+
+</resources>

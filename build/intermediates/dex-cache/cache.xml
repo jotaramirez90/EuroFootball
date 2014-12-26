@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/Android SDK/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/Jota/Android/Eurofootball/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-aac8a5b9952c76516c76abf09f02a6eabc771f20.jar" />
+    </item>
+    <item
+        jar="/Users/Jota/Android/Eurofootball/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/Jota/Android/Eurofootball/app/build/intermediates/pre-dexed/debug/classes-e8f226b57f06361393bb0b9d9409c593c0f1c2ab.jar" />
+    </item>
+    <item
+        jar="/Users/Jota/Android/Eurofootball/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/Jota/Android/Eurofootball/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-64939f9720e1f02e9b0cdae66310dbd4332a650f.jar" />
+    </item>
+    <item
+        jar="/Users/Jota/Android/Eurofootball/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/Jota/Android/Eurofootball/app/build/intermediates/pre-dexed/debug/classes-82525aa02b97e44ea820c594e89786aab8392cb1.jar" />
+    </item>
+    <item
+        jar="/Users/Jota/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/Jota/Android/Eurofootball/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-7d5ae44957a22487f5aad26a4b2d1b7953a58d78.jar" />
+    </item>
+
+</items>
